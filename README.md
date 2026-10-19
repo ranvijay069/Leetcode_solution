@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/ranvijay069/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0455-assign-cookies](https://github.com/ranvijay069/Leetcode_solution/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ranvijay069/Leetcode_solution/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ranvijay069/Leetcode_solution/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ranvijay069/Leetcode_solution/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ranvijay069/Leetcode_solution/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ranvijay069/Leetcode_solution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
