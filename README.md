@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ranvijay069/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ranvijay069/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/ranvijay069/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ranvijay069/Leetcode_solution/tree/master/0860-lemonade-change) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ranvijay069/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/ranvijay069/Leetcode_solution/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
