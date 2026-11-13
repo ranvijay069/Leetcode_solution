@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranvijay069/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ranvijay069/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/ranvijay069/Leetcode_solution/tree/master/0198-house-robber) |
 | [0455-assign-cookies](https://github.com/ranvijay069/Leetcode_solution/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ranvijay069/Leetcode_solution/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/ranvijay069/Leetcode_solution/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/ranvijay069/Leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/ranvijay069/Leetcode_solution/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/ranvijay069/Leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
